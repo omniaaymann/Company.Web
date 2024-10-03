@@ -1,0 +1,12 @@
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\bin\Debug\net8.0\Company.Data.deps.json
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\bin\Debug\net8.0\Company.Data.dll
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\bin\Debug\net8.0\Company.Data.pdb
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\Company.Data.csproj.AssemblyReference.cache
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\Company.Data.AssemblyInfoInputs.cache
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\Company.Data.AssemblyInfo.cs
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\Company.Data.csproj.CoreCompileInputs.cache
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\Company.Data.dll
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\refint\Company.Data.dll
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\Company.Data.pdb
+C:\Users\Omnia.Awwaad\Desktop\course route\mvc\Company.Web\Data.Models\obj\Debug\net8.0\ref\Company.Data.dll

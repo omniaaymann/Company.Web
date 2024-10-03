@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Authentication Page</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="auth-container">
+        <div class="auth-box">
+            <div>
+                @RenderBody()
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        (document.getElementById('myElement') as HTMLElement).style.display = 'none';
+
+
+        document.getElementById('show-login').addEventListener('click', function () {
+            document.getElementById('signup-box').style.display = 'none';
+            document.querySelector('.auth-box').style.display = 'block';
+        });
+    </script>
+</body>
+</html>

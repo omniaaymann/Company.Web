@@ -1,0 +1,35 @@
+﻿@model SignUpViewModel
+@{
+    ViewData["Title"] = "SignUp";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<h1>SignUp</h1>
+<form asp-action="SignUp" method="post">
+    <div class="input-group">
+        <label asp-for="FirstName">First Name</label>
+        <input type="text" id="new-username" asp-for="FirstName" required>
+    </div>
+    <div class="input-group">
+        <label asp-for="LastName">First Name</label>
+        <input type="text" id="new-username" asp-for="LastName" required>
+    </div>
+    <div class="input-group">
+        <label asp-for="Email">Email</label>
+        <input type="email" asp-for="Email" id="new-email" required>
+    </div>
+    <div class="input-group">
+        <label asp-for="Password">Password</label>
+        <input type="password" asp-for="Password"  required>
+    </div>
+    <div class="input-group">
+        <label asp-for="ConfirmPassword">Password</label>
+        <input type="password" asp-for="ConfirmPassword" required>
+    </div>
+    <button type="submit">Sign Up</button>
+</form>
+<div >
+
+    <p>Already have an account? <a asp-action="Login">Login here</a></p>
+</div>
+

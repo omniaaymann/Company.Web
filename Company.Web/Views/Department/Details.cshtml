@@ -1,0 +1,23 @@
+﻿@model DepartmentDto
+
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Details</h2>
+            <dl class="row">
+                <dt class="col-sm-3">
+                    @Html.DisplayNameFor(model => model.Id)
+                </dt>
+                <dd class="col-sm-9">
+                    @Html.DisplayFor(model => model.Code)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <a href="@Url.Action("Index", "Department")" class="btn btn-primary">Back to List</a>
+</div>

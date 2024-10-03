@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\company.web\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4006B52F-2E42-4C0D-803C-EB015310827C}|Company.Server\\Company.Service.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\company.server\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4006B52F-2E42-4C0D-803C-EB015310827C}|Company.Server\\Company.Service.csproj|solutionrelative:company.server\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\company.web\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\company.web\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1B9537-FBC2-4A7A-98F9-360699C8384D}|Company.Web\\Company.Web.csproj|solutionrelative:company.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BB8B8A-D953-441C-BBC4-1BA65D4AB4C0}|Data.Models\\Company.Data.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\data.models\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BB8B8A-D953-441C-BBC4-1BA65D4AB4C0}|Data.Models\\Company.Data.csproj|solutionrelative:data.models\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BB8B8A-D953-441C-BBC4-1BA65D4AB4C0}|Data.Models\\Company.Data.csproj|c:\\users\\omnia.awwaad\\desktop\\course route\\mvc\\company.web\\data.models\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BB8B8A-D953-441C-BBC4-1BA65D4AB4C0}|Data.Models\\Company.Data.csproj|solutionrelative:data.models\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Server\\Helper\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Company.Server\\Helper\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Server\\Helper\\EmailSettings.cs",
+              "RelativeToolTip": "Company.Server\\Helper\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:02:47.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckYourInbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\CheckYourInbox.cshtml",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\CheckYourInbox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T10:02:04.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T14:16:55.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T14:05:39.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Data.Models\\Models\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Data.Models\\Models\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Data.Models\\Models\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "Data.Models\\Models\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:53:17.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Data.Models\\Contexts\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "Data.Models\\Contexts\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Data.Models\\Contexts\\CompanyDbContext.cs",
+              "RelativeToolTip": "Data.Models\\Contexts\\CompanyDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T10:19:44.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "Company.Web\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T08:52:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Company.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:17:37.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Company.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Omnia.Awwaad\\Desktop\\course route\\mvc\\Company.Web\\Company.Web\\Program.cs",
+              "RelativeToolTip": "Company.Web\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAawE4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T15:57:50.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
